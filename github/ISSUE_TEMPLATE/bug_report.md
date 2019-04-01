@@ -1,7 +1,6 @@
 ---
 name: Bug report
 about: Create a report to help us improve.
-
 ---
 
 ## Description
@@ -14,15 +13,15 @@ about: Create a report to help us improve.
 2. [Second Step]
 3. [and so on...]
 
-**Expected behavior:** 
+**Expected behavior:**
 
 [What you expect to happen.]
 
-**Actual behavior:** 
+**Actual behavior:**
 
 [What actually happens.]
 
-**Reproduces how often:** 
+**Reproduces how often:**
 
 [What percentage of the time does it reproduce?]
 
