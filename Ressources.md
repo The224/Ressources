@@ -55,17 +55,7 @@ My tools for development
 
 ## IDE Ressources
 
-### Visual Studio
-
-Extensions that I use:
-
-- [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
-- [Beautify](https://marketplace.visualstudio.com/items?itemName=michelemelluso.code-beautifier)
-- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-- [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
-- [VScode Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
+- [Visual Studio Code](./vscode/README.md)
 
 ---
 
