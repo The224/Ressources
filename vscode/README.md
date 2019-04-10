@@ -12,16 +12,14 @@
 
 ### TODO Highlight
 
-TODO: Add preview from API
-
 The workspace setting can be found inside [`./settings.json`](./settings.json).
 
 Here the 5 keywords that will be highlight with specific color:
 
-| Keywords         | Description                                   |
-|------------------|-----------------------------------------------|
-| TODO             | Something that need to be done later          |
-| REVIEW           | Ask for review on a specific code             |
-| FIXME            | Code is broke and need to be repair           |
-| NOTE             | Leave note, but prefer TSDoc                  |
-| NEED REFACTORING | It work... but it isn't well written.         |
+| Keywords         | Description                                   | Preview                                                               |
+|------------------|-----------------------------------------------|-----------------------------------------------------------------------|
+| TODO             | Something that need to be done later          | ![TODO](https://orbital.the224.dev/i/TODO_highlights.png)             |
+| REVIEW           | Ask for review on a specific code             | ![REVIEW](https://orbital.the224.dev/i/REVIEW_highlights.png)         |
+| FIXME            | Code is broke and need to be repair           | ![FIXME](https://orbital.the224.dev/i/FIXME_highlights.png)           |
+| NOTE             | Leave note, but prefer TSDoc                  | ![NOTE](https://orbital.the224.dev/i/NOTE_highlights.png)             |
+| NEED REFACTORING | It work... but it isn't well written.         | ![NEED REFACTORING](https://orbital.the224.dev/i/NEED_highlights.png) |
